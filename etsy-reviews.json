@@ -1,104 +1,124 @@
 {
   "reviews": [
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "10/10,  no notes. Absolutely marvelous."
+      "text": "perfect for mounting under my desk where I can see it."
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "This is exactly what I needed! Would highly recommend!"
+      "text": "Great product really enjoyed it"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Exceptional fit and makes my camera so much easier to use with the current boom arm!"
+      "text": "As described. Thank you very much"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Very fast! Perfect! Thank you"
+      "text": "Great Product, fits my Arctis Pro perfectly!"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Works like a charm , it was exactly what I needed"
+      "text": "Had a problem with the old unit. Contacted seller and he fixed the problem. replacement works great. Thanks!"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Fits great, shipped fast. Great product! Thank you!"
+      "text": "Thanks, Austin. The Elgato prompter plate for the Elgato Webcam is much appreciated. Thanks for your work to make it available."
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Great product, I just ordered the wrong one.  He does have a separate listing for Elgato Key Light Air, my mistake.  He was very responsive and corrected the situation immediately."
+      "text": "Shipping was really fast and both my stream deck+ and wave XLR snapped in with no trouble and are finally held in place. Highly recommend!"
     },
     {
-      "name": "Etsy Customer",
-      "rating": 5,
-      "text": "Amazing quality product, better than i expected A+++"
-    },
-    {
-      "name": "Etsy Customer",
-      "rating": 5,
-      "text": "Great quality and craftsmanship! I love how it fits perfectly around the Arctis Nova pro wireless hub. It also has very strong magnets that work with my secret labs magnus desk. I love how it helps things within reach and keeps my desk clear. Genius!"
-    },
-    {
-      "name": "Etsy Customer",
-      "rating": 5,
-      "text": "Item is of good quality , went perfectly in my setup"
-    },
-    {
-      "name": "Etsy Customer",
-      "rating": 5,
-      "text": "great equality, arrived on time"
-    },
-    {
-      "name": "Etsy Customer",
-      "rating": 5,
-      "text": "Great product, highly recommend them."
-    },
-    {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
       "text": "Just what I need to mount to my shelf."
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Great idea and design works as designed perfectly."
+      "text": "Great quality and fit perfectly even with lenses installed"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Looks great! Very happy with my purchase."
+      "text": "AMAZING PRODUCT AND CUSTOMER SERVICE"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Great quality and craftsmanship! I love how it fits perfectly around the Arctis Nova pro wireless hub. It also has very strong magnets that work with my secret labs magnus desk. I love how it helps things within reach and keeps my desk clear. Genius!"
+    },
+    {
+      "name": "Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Great product, highly recommend them."
+    },
+    {
+      "name": "Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Fits great, shipped fast. Great product! Thank You"
+    },
+    {
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
       "text": "Fits great, shipped fast. Great product!"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Works great. Wish the puck fit a little more snug."
+    },
+    {
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
       "text": "Great quality and craftsmanship! Love the color and customization that it adds to my headset!"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Awesome product works well with my setup1"
+      "text": "Pieces came in as described and feel plenty durable."
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "Love it! Perfect fit, love that I don&#39;t need the L-Bracket which saves me from extending my desk from the wall, and fast shipping."
+      "text": "These are well made, fit extremely well on Skadis and hold my controllers nicely. Highly recommend!"
     },
     {
-      "name": "Etsy Customer",
+      "name": "Customer",
+      "product": "this item",
       "rating": 5,
-      "text": "This made a substantial improvement to my Elgato Key Light.  I highly recommend it!"
+      "text": "Great condition and fast shipping! Magnet is super strong. Highly recommend!"
+    },
+    {
+      "name": "Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Works amazing! Easy to install."
     }
   ]
 }
