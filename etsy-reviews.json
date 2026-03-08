@@ -2,6 +2,48 @@
   "reviews": [
     {
       "name": "Etsy Customer",
+      "product": "Elgato Key Light Grid Cover",
+      "rating": 5,
+      "text": "Works amazing! Easy to install."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR Mount",
+      "rating": 5,
+      "text": "Fits great, shipped fast. Great product! Thank You"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Anker 525 Secretlab MAGNUS Version",
+      "rating": 5,
+      "text": "Had a problem with the old unit. Contacted seller and he fixed the problem. replacement works great. Thanks!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless Secretlab MAGNUS Version",
+      "rating": 5,
+      "text": "Took a little while to get shipped to me but it was exactly what I was looking for and works great"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Key Light Grid Cover",
+      "rating": 5,
+      "text": "Does the job nicely really made a difference as soon as I installed it"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Mount",
+      "rating": 5,
+      "text": "Item is exactly as described. Makes a great addition to your desk to help keep cable management clean and clutter off of desktop."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "rating": 5,
+      "text": "Great product, highly recommend them."
+    },
+    {
+      "name": "Etsy Customer",
       "product": "Skadis/Uppspel Controller Holder",
       "rating": 5,
       "text": "These are well made, fit extremely well on Skadis and hold my controllers nicely. Highly recommend!"
@@ -14,69 +56,9 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Facecam 4K Privacy Cover",
+      "product": "Elgato Prompter Space Saving Bracket",
       "rating": 5,
-      "text": "Great quality and fit perfectly even with lenses installed"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Prompter Universal Smartphone Plate",
-      "rating": 5,
-      "text": "Very fast! Perfect! Thank you"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Prompter Camera Plates",
-      "rating": 5,
-      "text": "Thanks, Austin. The Elgato prompter plate for the Elgato Webcam is much appreciated. Thanks for your work to make it available."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 5,
-      "text": "Great item and works as expected, it cleans up the desk even more."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Key Light Grid Cover",
-      "rating": 5,
-      "text": "This made a substantial improvement to my Elgato Key Light.  I highly recommend it!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 5,
-      "text": "Great Product, fits my Arctis Pro perfectly!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 5,
-      "text": "Great quality and craftsmanship! I love how it fits perfectly around the Arctis Nova pro wireless hub. It also has very strong magnets that work with my secret labs magnus desk. I love how it helps things within reach and keeps my desk clear. Genius!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Wave XLR Mount",
-      "rating": 5,
-      "text": "As described. Thank you very much"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Stream Deck+ Mount",
-      "rating": 5,
-      "text": "Fits great, shipped fast. Great product! Thank you!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "MagSafe Phone Monitor Mount Continuity Cam",
-      "rating": 5,
-      "text": "Works great. Wish the puck fit a little more snug."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Stream Deck Mk.2 MAGNUS Mount",
-      "rating": 5,
-      "text": "Great condition and fast shipping! Magnet is super strong. Highly recommend!"
+      "text": "Amazing product that condensed my setup!"
     },
     {
       "name": "Etsy Customer",
@@ -86,21 +68,15 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Anker 525 Desk Mount",
+      "product": "Elgato Facecam 4K Privacy Cover",
       "rating": 5,
-      "text": "Just what I need to mount to my shelf."
+      "text": "Great quality and fit perfectly even with lenses installed"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Key Light Grid Cover",
+      "product": "MagSafe Phone Monitor Mount Continuity Cam",
       "rating": 5,
-      "text": "Great product, I just ordered the wrong one.  He does have a separate listing for Elgato Key Light Air, my mistake.  He was very responsive and corrected the situation immediately."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Stream Deck + and Wave XLR Combiner",
-      "rating": 5,
-      "text": "Shipping was really fast and both my stream deck+ and wave XLR snapped in with no trouble and are finally held in place. Highly recommend!"
+      "text": "Works great. Wish the puck fit a little more snug."
     },
     {
       "name": "Etsy Customer",
@@ -110,15 +86,39 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Headphone Holder",
+      "product": "Elgato Prompter Camera Plates",
       "rating": 5,
-      "text": "10/10,  no notes. Absolutely marvelous."
+      "text": "Love it! Perfect fit, love that I don&#39;t need the L-Bracket which saves me from extending my desk from the wall, and fast shipping."
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Analogue Pocket Holder",
+      "product": "Elgato Stream Deck Mk.2 MAGNUS Mount",
       "rating": 5,
-      "text": "Looks great! Very happy with my purchase."
+      "text": "Great condition and fast shipping! Magnet is super strong. Highly recommend!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Anker 525 Desk Mount",
+      "rating": 5,
+      "text": "Just what I need to mount to my shelf."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Mount",
+      "rating": 5,
+      "text": "perfect for mounting under my desk where I can see it."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "rating": 5,
+      "text": "Great Product, fits my Arctis Pro perfectly!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Prompter Camera Plates",
+      "rating": 5,
+      "text": "Exceptional fit and makes my camera so much easier to use with the current boom arm!"
     }
   ]
 }
