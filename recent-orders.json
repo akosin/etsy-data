@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "zachary just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    },
-    {
-      "text": "SHAWN just purchased Elgato Key Light Grid Cover"
-    },
-    {
-      "text": "Robert just purchased Stream Deck Mk.2 1/4&quot;-20 Mount"
-    },
-    {
-      "text": "Cameron just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Javier just purchased Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Nikos just purchased Elgato Facecam PRO Privacy Cover"
-    },
-    {
-      "text": "Emile just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "kristopher just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Matthew just purchased Elgato Key Light Grid Cover"
-    },
-    {
-      "text": "Aaron just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    }
-  ]
+  "orders": []
 }
