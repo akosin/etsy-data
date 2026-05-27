@@ -2,9 +2,39 @@
   "reviews": [
     {
       "name": "Etsy Customer",
+      "product": "Design Change Order",
+      "rating": 5,
+      "text": "As described. Exactly what I needed. Works perfectly."
+    },
+    {
+      "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "Good quality of materials ."
+      "text": "Great item, exactly as described.  Fits the magnus desk perfectly.  Wish I could request a couple custom mounts for other items just like this one for the DAC"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "rating": 5,
+      "text": "These are well made, sturdy and hold my keyboards perfectly."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Its a perfect fit for the station."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "rating": 5,
+      "text": "perfect addition to my board"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Incredible product. Very simple. Very strong magnets. Super clean!"
     },
     {
       "name": "Etsy Customer",
@@ -14,15 +44,9 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "this item",
+      "product": "Elgato Prompter Camera Plates",
       "rating": 5,
-      "text": "The faceplate for scissor keys fit exactly as advertised!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Stream Deck Mk.2 1/4\"-20 Mount",
-      "rating": 5,
-      "text": "Super helpful seller, excellent craftsmanship, wonderful experience. 10/10, would buy from again!"
+      "text": "Just as described. It fits perfectly!"
     },
     {
       "name": "Etsy Customer",
@@ -38,21 +62,21 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "this item",
+      "product": "Elgato Wave XLR Mount",
       "rating": 5,
-      "text": "As described. Exactly what I needed. Works perfectly."
+      "text": "came with the needed screws and installed perfectly on my Ikea Gaming desk."
     },
     {
       "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "product": "Ikea Skadis/Uppspel HomePod Mini Holder",
       "rating": 5,
-      "text": "Awesome great amazing no words"
+      "text": "Product is great quality and came right on time! :)"
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "product": "Stream Deck Mk.2 Wood Face Plate",
       "rating": 5,
-      "text": "These are well made, sturdy and hold my keyboards perfectly."
+      "text": "These wooden faceplates are of good quality; they fit Stream Decks perfectly and add a nice natural touch. The package was well secured and arrived on time, perfect !"
     },
     {
       "name": "Etsy Customer",
@@ -62,27 +86,27 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "product": "Stream Deck Mk.2 Wood Face Plate",
       "rating": 5,
-      "text": "holds my keyboard up on my skadis board perfectly"
+      "text": "The faceplate for scissor keys fit exactly as advertised!"
     },
     {
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "Such great quality that I purchased a second Elgato Prompter Camera Plates for a backup! My Logitech StreamCam loves its new home! Everything fit perfectly and made my setup look much cleaner and more professional. \nThe plate is sturdy, installation was infinity simple, and it works exactly as described for the Elgato TelePrompter.\n\nI purchased this second plate from AkosinCreations as a backup - I cannot recommend it high enough 6/5 Stars!\n\nFriendly, fast creator!"
+      "text": "Highly recommend this seller. Group product.!!"
     },
     {
       "name": "Etsy Customer",
-      "product": "this item",
+      "product": "Elgato Key Light Grid Cover",
       "rating": 5,
       "text": "Works well, exactly as expected!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "product": "Elgato Key Light Air Grid Cover",
       "rating": 5,
-      "text": "bought it for a second time love it"
+      "text": "It works exactly as expected!"
     },
     {
       "name": "Etsy Customer",
@@ -92,33 +116,9 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "product": "Microsoft LifeCam HD-3000 Privacy Cover",
       "rating": 5,
-      "text": "Its a perfect fit for the station."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 5,
-      "text": "Product feels nice and the magnet is really strong."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Prompter Space Saving Bracket",
-      "rating": 5,
-      "text": "Just as described. It fits perfectly!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Stream Deck Neo MAGNUS Mount",
-      "rating": 5,
-      "text": "The item is as described it was well made, and the magnetic part holds very well to the desk! Exactly what I needed, thank you!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Awesome product now I don’t have to use the dreaded universal shroud anymore"
+      "text": "matched description abs her expectations"
     }
   ]
 }
