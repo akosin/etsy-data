@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Pat just purchased Stream Deck+ MAGNUS Mount"
-    },
-    {
-      "text": "Kody just purchased Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Josten just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Matt just purchased Wave XLR Pro Mount Standard to Magnus Upgrade"
-    },
-    {
-      "text": "Lauren just purchased Elgato Prompter Universal Smartphone Plate"
-    },
-    {
-      "text": "James just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Bob just purchased Elgato Wave XLR PRO Mount"
-    },
-    {
-      "text": "Rodin just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Manny just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Dylan just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    }
-  ]
+  "orders": []
 }
