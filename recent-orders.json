@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Stephen just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    },
-    {
-      "text": "Adam just purchased Elgato Stream Deck Mk.2 MAGNUS Mount"
-    },
-    {
-      "text": "Travis just purchased Mac Mini M4 2024 Mount"
-    },
-    {
-      "text": "Victoria just purchased Secretlab Magnus Controller Holder for PS5, Xbox & Switch | Gaming Setup Accessory"
-    },
-    {
-      "text": "Charles just purchased Secretlab Magnus Mount for SteelSeries Arctis Nova Pro/Elite Wireless | Headset & Battery Holder"
-    },
-    {
-      "text": "Dick just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Ian just purchased Elgato PROMPTER Privacy Cover"
-    },
-    {
-      "text": "Evan just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Matthew just purchased CGC Trading Card Stand (Angled)"
-    },
-    {
-      "text": "Christian just purchased Elgato Prompter Camera Plates"
-    }
-  ]
+  "orders": []
 }
