@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Stephen just purchased Ikea Skadis/Uppspel Headphone Holder"
-    },
-    {
-      "text": "Jorge just purchased Elgato Facecam 4K Privacy Cover"
-    },
-    {
-      "text": "Matthew just purchased CGC Trading Card Stand (Angled)"
-    },
-    {
-      "text": "Christopher just purchased Elgato Key Light Grid Cover"
-    },
-    {
-      "text": "Jock just purchased Elgato Key Light Grid Cover"
-    },
-    {
-      "text": "Thomas just purchased Wall Mount for Elgato Stream Deck Module (15-Key)"
-    },
-    {
-      "text": "Adam just purchased Elgato Stream Deck Mk.2 MAGNUS Mount"
-    },
-    {
-      "text": "Charles just purchased Secretlab Magnus Mount for SteelSeries Arctis Nova Pro/Elite Wireless | Headset & Battery Holder"
-    },
-    {
-      "text": "Nick just purchased Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Stephen just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    }
-  ]
+  "orders": []
 }
