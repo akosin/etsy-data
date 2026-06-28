@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Alexander just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "LANCE just purchased Elgato Wave XLR PRO Mount"
-    },
-    {
-      "text": "Alex just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Soe just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Bryton just purchased Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Matthew just purchased Elgato Wave Mic Arm Wall Mount Adapter (Pro & LP)"
-    },
-    {
-      "text": "Andrew just purchased Stream Deck+ MAGNUS Mount"
-    },
-    {
-      "text": "George just purchased Secretlab Magnus Mount for SteelSeries Arctis Nova Pro/Elite Wireless | Headset & Battery Holder"
-    },
-    {
-      "text": "Chris just purchased Elgato Key Light Grid Cover"
-    },
-    {
-      "text": "Felipe just purchased Elgato Stream Deck + and Wave XLR Combiner"
-    }
-  ]
+  "orders": []
 }
