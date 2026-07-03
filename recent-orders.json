@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Tony just purchased Elgato Wave Mic Arm Wall Mount Adapter (Pro & LP)"
-    },
-    {
-      "text": "Tao just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Matthew just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Philip just purchased Stream Deck Mk.2 Wood Face Plate"
-    },
-    {
-      "text": "Steven just purchased Elgato PROMPTER Privacy Cover"
-    },
-    {
-      "text": "Eder just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    },
-    {
-      "text": "Sydney just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Wes just purchased Elgato PROMPTER Privacy Cover"
-    },
-    {
-      "text": "Taedyn just purchased Aluminum Extrusion Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Michelle just purchased Skadis/Uppspel Controller Holder"
-    }
-  ]
+  "orders": []
 }
