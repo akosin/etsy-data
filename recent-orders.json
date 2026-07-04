@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "William just purchased Stream Deck Mk.2 Wood Face Plate"
-    },
-    {
-      "text": "Michelle just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    },
-    {
-      "text": "Chris just purchased Elgato Wave XLR PRO MAGNUS Mount"
-    },
-    {
-      "text": "Michelle just purchased Ikea Skadis/Uppspel Headphone Holder"
-    },
-    {
-      "text": "Nico just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Eduardo just purchased Elgato Facecam 4K Privacy Cover"
-    },
-    {
-      "text": "Gamer just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    },
-    {
-      "text": "Wes just purchased Elgato PROMPTER Privacy Cover"
-    },
-    {
-      "text": "Matthias just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Mikhail just purchased Elgato Wave XLR Mount"
-    }
-  ]
+  "orders": []
 }
