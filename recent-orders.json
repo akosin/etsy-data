@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Juan just purchased Aluminum Extrusion Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Andrew just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Darlene just purchased Elgato PROMPTER Privacy Cover"
-    },
-    {
-      "text": "Alex just purchased Elgato Wave XLR PRO Mount"
-    },
-    {
-      "text": "Blake just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "David just purchased Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Justin just purchased Anker 525 Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Zachary just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Gary just purchased Elgato Stream Deck Mk.2 MAGNUS Mount"
-    },
-    {
-      "text": "Christopher just purchased Elgato Prompter Camera Plates"
-    }
-  ]
+  "orders": []
 }
