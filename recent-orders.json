@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Emily just purchased MagSafe Phone Monitor Mount Continuity Cam"
-    },
-    {
-      "text": "Jacob just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "CASSANDRA just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "David just purchased Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Kelly just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Kristine just purchased Arctis Pro Wireless Secretlab MAGNUS Version"
-    },
-    {
-      "text": "wesley just purchased Stream Deck XL Mount"
-    },
-    {
-      "text": "Shannon just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Andrew just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Derek just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    }
-  ]
+  "orders": []
 }
