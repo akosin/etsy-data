@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Andrew just purchased Elgato HD60X/4KX/4KS Mount"
-    },
-    {
-      "text": "Matthew just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Emil just purchased Ikea Skadis/Uppspel Keyboard Holder Set"
-    },
-    {
-      "text": "Lokesh just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Justin just purchased Aluminum Extrusion Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Andrew just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    },
-    {
-      "text": "Christofer just purchased Elgato Facecam 4K Privacy Cover"
-    },
-    {
-      "text": "Gaz just purchased Elgato Key Light Air Grid Cover"
-    },
-    {
-      "text": "Brendan just purchased Elgato Stream Deck Mk.2 MAGNUS Mount"
-    },
-    {
-      "text": "Jonathan just purchased Wall Mount for Elgato Stream Deck Module (15-Key)"
-    }
-  ]
+  "orders": []
 }
