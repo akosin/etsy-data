@@ -2,45 +2,27 @@
   "reviews": [
     {
       "name": "Etsy Customer",
+      "product": "Elgato Wave XLR Mount",
+      "rating": 5,
+      "text": "Incredible job my friend . Thankyou works perfectly"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "rating": 5,
+      "text": "Great customer service. Had a question and received an answer quickly. Product is as described and the hub fits perfectly"
+    },
+    {
+      "name": "Etsy Customer",
       "product": "Arctis Pro Wireless NOVA Side Plates",
       "rating": 5,
       "text": "Good quality and exactly the colours I wanted, I’m very pleased."
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO MAGNUS Mount",
+      "product": "Ikea Skadis/Uppspel Headphone Holder",
       "rating": 5,
-      "text": "Item is as expected I seen this on YouTube first and wrote on there I couldn’t find it , and the seller directed me to his shop. Would definitely buy from him again ."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Mount",
-      "rating": 4,
-      "text": "This is a great item."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Prompter Camera Plates",
-      "rating": 5,
-      "text": "Good quality, perfectly fits my Insta360 Link 2C webcam."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Battery...",
-      "rating": 5,
-      "text": "Came perfect exactly as described!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Prompter Camera Plates",
-      "rating": 5,
-      "text": "Awesome product now I don’t have to use the dreaded universal shroud anymore"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Prompter Camera Plates",
-      "rating": 5,
-      "text": "Such great quality that I purchased a second Elgato Prompter Camera Plates for a backup! My Logitech StreamCam loves its new home! Everything fit perfectly and made my setup look much cleaner and more professional. \nThe plate is sturdy, installation was infinity simple, and it works exactly as described for the Elgato TelePrompter.\n\nI purchased this second plate from AkosinCreations as a backup - I cannot recommend it high enough 6/5 Stars!\n\nFriendly, fast creator!"
+      "text": "Arrived quickly and as described."
     },
     {
       "name": "Etsy Customer",
@@ -52,29 +34,17 @@
       "name": "Etsy Customer",
       "product": "Elgato Key Light Grid Cover",
       "rating": 5,
-      "text": "as described ."
+      "text": "Fits exactly, attaches easily, directs like just like you would expect!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Stream Deck Neo MAGNUS Mount",
+      "product": "Elgato Wave XLR PRO Mount",
       "rating": 5,
-      "text": "The item is as described it was well made, and the magnetic part holds very well to the desk! Exactly what I needed, thank you!"
+      "text": "Fits perfectly and designed well"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO MAGNUS Mount",
-      "rating": 5,
-      "text": "Great build! The hidden magnets give it a much cleaner and more refined look."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 5,
-      "text": "This product is perfect for keeping your desk setup minimalistic and clean. 5/5"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Headphone Holder",
+      "product": "Skadis/Uppspel Controller Holder",
       "rating": 5,
       "text": "Arrived quickly and as described."
     },
@@ -82,25 +52,13 @@
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "Small footprint, big impact 💪🏻. Love the compact design."
+      "text": "PERFECT fit. Super easy installation."
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "product": "Elgato Facecam Privacy Cover",
       "rating": 5,
-      "text": "Arrived quickly and as described."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "This product helped me de-clutter my desk. The magnet is strong without being overbearing."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Wonderful item you made here."
+      "text": "Perfect, bought two in case and now I have a back up. Color is true, finished smooth and fits exactly.  Thank you!"
     },
     {
       "name": "Etsy Customer",
@@ -110,15 +68,57 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Key Light Air Grid Cover",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
       "rating": 5,
-      "text": "It works exactly as expected!"
+      "text": "Excellent design. Fits perfectly and frees up some space. Magnet works well so far."
     },
     {
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "great product, highly recommended seller"
+      "text": "Very happy with my purchase"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO MAGNUS Mount",
+      "rating": 5,
+      "text": "Great build! The hidden magnets give it a much cleaner and more refined look."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 5,
+      "text": "Fantastic, great support.  I have ordered several different things from this person."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "rating": 5,
+      "text": "Arrived quickly and as described."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Key Light Grid Cover",
+      "rating": 5,
+      "text": "as described ."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 5,
+      "text": "As described, high quality 3d print!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 4,
+      "text": "This is a very nice item and does exactly what I need it to do. The reason I gave it four stars instead of five was because it was uncomfortably tight when I was trying push it in ... so much so that I'm almost afraid to ever take it back out for fear of how much it might have gotten scratched up."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Prompter Camera Plates",
+      "rating": 5,
+      "text": "Good quality, perfectly fits my Insta360 Link 2C webcam."
     }
   ]
 }
