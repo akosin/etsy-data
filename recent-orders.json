@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Steven just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Will just purchased Wall Mount for Elgato Stream Deck Module (15-Key)"
-    },
-    {
-      "text": "Michael just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Waldemar just purchased Elgato Prompter Universal Smartphone Plate"
-    },
-    {
-      "text": "Suhas just purchased Stream Deck Mini Mount MAGNUS VERSION"
-    },
-    {
-      "text": "Nicholas just purchased Skadis/Uppspel XBOX Elite Charging Mount"
-    },
-    {
-      "text": "Andrew just purchased Elgato HD60X/4KX/4KS Mount"
-    },
-    {
-      "text": "Andrew just purchased Elgato Wave XLR Mount"
-    },
-    {
-      "text": "Lawrence just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Thierry just purchased Arctis Pro Wireless NOVA and ELITE Mount"
-    }
-  ]
+  "orders": []
 }
