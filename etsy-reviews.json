@@ -2,57 +2,33 @@
   "reviews": [
     {
       "name": "Etsy Customer",
-      "product": "Stream Deck XL Mount",
-      "rating": 5,
-      "text": "Looks good bro, thanks! :)"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Key Light Grid Cover",
-      "rating": 5,
-      "text": "Works well, exactly as expected!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Such great quality that I purchased a second Elgato Prompter Camera Plates for a backup! My Logitech StreamCam loves its new home! Everything fit perfectly and made my setup look much cleaner and more professional. \nThe plate is sturdy, installation was infinity simple, and it works exactly as described for the Elgato TelePrompter.\n\nI purchased this second plate from AkosinCreations as a backup - I cannot recommend it high enough 6/5 Stars!\n\nFriendly, fast creator!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Battery...",
-      "rating": 5,
-      "text": "Came perfect exactly as described!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Great construction, fit in place no problem"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Awesome product now I don’t have to use the dreaded universal shroud anymore"
-    },
-    {
-      "name": "Etsy Customer",
       "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
       "rating": 5,
       "text": "Excellent design. Fits perfectly and frees up some space. Magnet works well so far."
     },
     {
       "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 4,
-      "text": "It does the job ."
+      "product": "Stream Deck Neo MAGNUS Mount",
+      "rating": 5,
+      "text": "The item is as described it was well made, and the magnetic part holds very well to the desk! Exactly what I needed, thank you!"
     },
     {
       "name": "Etsy Customer",
-      "product": "this item",
+      "product": "Elgato Prompter Camera Plates",
       "rating": 5,
-      "text": "PERFECT fit. Super easy installation."
+      "text": "This is the third one I’ve bought. All are well made and fit perfectly."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 4,
+      "text": "Great build. The screws that come with are great, but will get the job down if you drill pilot holes if attaching to wood. I would ask for an improvement to be made by printing a version that has the thread port on the bottom exposed to allow for attachments but primarily a way to have a little 3d printed \"locking\" screw that would prevent the unit from being pulled out when unplugging headphones or such."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Facecam Privacy Cover",
+      "rating": 5,
+      "text": "Perfect, bought two in case and now I have a back up. Color is true, finished smooth and fits exactly.  Thank you!"
     },
     {
       "name": "Etsy Customer",
@@ -62,21 +38,27 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Key Light Air Grid Cover",
+      "product": "this item",
       "rating": 5,
-      "text": "It works exactly as expected!"
+      "text": "Looks good bro, thanks! :)"
     },
     {
       "name": "Etsy Customer",
-      "product": "Headphone Holder for Secretlab MAGNUS Desk...",
+      "product": "Elgato Prompter Camera Plates",
       "rating": 5,
-      "text": "Small footprint, big impact 💪🏻. Love the compact design."
+      "text": "Awesome product now I don’t have to use the dreaded universal shroud anymore"
     },
     {
       "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Mount",
+      "product": "Arctis Pro Wireless NOVA and ELITE Battery...",
+      "rating": 5,
+      "text": "Came perfect exactly as described!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
       "rating": 4,
-      "text": "This is a great item."
+      "text": "This is a very nice item and does exactly what I need it to do. The reason I gave it four stars instead of five was because it was uncomfortably tight when I was trying push it in ... so much so that I'm almost afraid to ever take it back out for fear of how much it might have gotten scratched up."
     },
     {
       "name": "Etsy Customer",
@@ -86,39 +68,57 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Headphone Holder",
+      "product": "Elgato Key Light Air Grid Cover",
       "rating": 5,
-      "text": "Good stuff you wont be disappointed"
+      "text": "It works exactly as expected!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Stream Deck+ Mount",
+      "product": "Elgato Facecam 4K Privacy Cover",
       "rating": 5,
-      "text": "This is perfect came better than I expected. Super high quality items."
+      "text": "great product, highly recommended seller"
     },
     {
       "name": "Etsy Customer",
-      "product": "this item",
+      "product": "Stream Deck Mk.2 1/4\"-20 Mount",
       "rating": 5,
-      "text": "Fits great, pefect attachment for Facecam 4k."
+      "text": "Super helpful seller, excellent craftsmanship, wonderful experience. 10/10, would buy from again!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Prompter Camera Plates",
+      "rating": 5,
+      "text": "Great construction, fit in place no problem"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Prompter Camera Plates",
+      "rating": 5,
+      "text": "Good quality, perfectly fits my Insta360 Link 2C webcam."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Stream Deck Mk.2 1/4\"-20 Mount",
+      "rating": 5,
+      "text": "Great quality and fast shipping. Would recommend."
     },
     {
       "name": "Etsy Customer",
       "product": "Elgato Wave XLR PRO Mount",
       "rating": 5,
-      "text": "Fantastic, great support.  I have ordered several different things from this person."
+      "text": "this thing is a dream!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato PROMPTER Privacy Cover",
+      "product": "Arctis Pro Wireless NOVA and ELITE Battery...",
       "rating": 5,
-      "text": "Wonderful item you made here."
+      "text": "Shipped quick and arrived within expected shipping time. Product is great! The batteries fit smoothly inside it and stick out a bit so they can easily be grabbed and pulled out. I have it stuck underneath a shelf on my nearby bookshelf. And its perfect!\nI highly recommend, about to buy another so I can keep track of more batteries of the same type. I chose the pink one, and its lovely!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Facecam Privacy Cover",
+      "product": "Elgato Prompter Camera Plates",
       "rating": 5,
-      "text": "Perfect, bought two in case and now I have a back up. Color is true, finished smooth and fits exactly.  Thank you!"
+      "text": "Fits great, pefect attachment for Facecam 4k."
     }
   ]
 }
