@@ -2,21 +2,9 @@
   "reviews": [
     {
       "name": "Etsy Customer",
-      "product": "Elgato Key Light Grid Cover",
-      "rating": 5,
-      "text": "Fits exactly, attaches easily, directs like just like you would expect!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
-      "rating": 5,
-      "text": "Arrived quickly and as described."
-    },
-    {
-      "name": "Etsy Customer",
       "product": "Elgato Wave XLR PRO Mount",
-      "rating": 5,
-      "text": "this fits the Wave XLR Pro perfectly."
+      "rating": 4,
+      "text": "Great build. The screws that come with are great, but will get the job down if you drill pilot holes if attaching to wood. I would ask for an improvement to be made by printing a version that has the thread port on the bottom exposed to allow for attachments but primarily a way to have a little 3d printed \"locking\" screw that would prevent the unit from being pulled out when unplugging headphones or such."
     },
     {
       "name": "Etsy Customer",
@@ -26,21 +14,33 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Stream Deck Mk.2 MAGNUS Mount",
+      "product": "Elgato Wave XLR PRO Mount",
       "rating": 5,
-      "text": "This product helped me de-clutter my desk. The magnet is strong without being overbearing."
+      "text": "this fits the Wave XLR Pro perfectly."
     },
     {
       "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Cable Holder",
+      "product": "Stream Deck XL Mount",
       "rating": 5,
-      "text": "Sadly my cable ended up being to long for it, but it’s great for others and a useful product."
+      "text": "Looks good bro, thanks! :)"
     },
     {
       "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "product": "Elgato Prompter Camera Plates",
       "rating": 5,
-      "text": "Excellent design. Fits perfectly and frees up some space. Magnet works well so far."
+      "text": "This is the third one I’ve bought. All are well made and fit perfectly."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Prompter Camera Plates",
+      "rating": 5,
+      "text": "Fits great, pefect attachment for Facecam 4k."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Prompter Camera Plates",
+      "rating": 5,
+      "text": "Great construction, fit in place no problem"
     },
     {
       "name": "Etsy Customer",
@@ -50,27 +50,39 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO Mount",
-      "rating": 4,
-      "text": "Great build. The screws that come with are great, but will get the job down if you drill pilot holes if attaching to wood. I would ask for an improvement to be made by printing a version that has the thread port on the bottom exposed to allow for attachments but primarily a way to have a little 3d printed \"locking\" screw that would prevent the unit from being pulled out when unplugging headphones or such."
+      "product": "Elgato Prompter Camera Plates",
+      "rating": 5,
+      "text": "Good quality, perfectly fits my Insta360 Link 2C webcam."
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO Mount",
+      "product": "Elgato Facecam 4K Privacy Cover",
       "rating": 5,
-      "text": "this thing is a dream!"
+      "text": "great product, highly recommended seller"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Stream Deck Mk.2 MAGNUS Mount",
+      "rating": 5,
+      "text": "This product helped me de-clutter my desk. The magnet is strong without being overbearing."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Ikea Skadis/Uppspel Keyboard Holder Set",
+      "rating": 5,
+      "text": "Arrived quickly and as described."
     },
     {
       "name": "Etsy Customer",
       "product": "Elgato Key Light Grid Cover",
       "rating": 5,
-      "text": "as described ."
+      "text": "Fits exactly, attaches easily, directs like just like you would expect!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO MAGNUS Mount",
+      "product": "this item",
       "rating": 5,
-      "text": "Great build! The hidden magnets give it a much cleaner and more refined look."
+      "text": "Arrived quickly and as described."
     },
     {
       "name": "Etsy Customer",
@@ -80,45 +92,33 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 4,
-      "text": "My only complaint is the magnets could be a bit stronger to keep from sliding if bumped, otherwise it’s great."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Nova/GameDAC Gen 2 Mount",
-      "rating": 5,
-      "text": "The color is perfect. My nova pro wired"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato PROMPTER Privacy Cover",
-      "rating": 5,
-      "text": "Wonderful item you made here."
-    },
-    {
-      "name": "Etsy Customer",
       "product": "Elgato Wave XLR PRO Mount",
       "rating": 5,
-      "text": "As described, high quality 3d print!"
+      "text": "this thing is a dream!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Facecam Privacy Cover",
+      "rating": 5,
+      "text": "Perfect, bought two in case and now I have a back up. Color is true, finished smooth and fits exactly.  Thank you!"
     },
     {
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "Great for Wave XLR MK.2 from Elgato!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Stream Deck Neo MAGNUS Mount",
-      "rating": 5,
       "text": "The item is as described it was well made, and the magnetic part holds very well to the desk! Exactly what I needed, thank you!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Stream Deck XL Mount",
+      "product": "this item",
       "rating": 5,
-      "text": "awesome product fast delivery"
+      "text": "Arrived quickly and as described."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA Side Plates",
+      "rating": 5,
+      "text": "Good quality and exactly the colours I wanted, I’m very pleased."
     }
   ]
 }
