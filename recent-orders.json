@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Stephen just purchased Elgato Facecam 4K Privacy Cover"
-    },
-    {
-      "text": "Kelli just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Nicholas just purchased Ikea Skadis/Uppspel Headphone Holder"
-    },
-    {
-      "text": "Morgan just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Arnold just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Kevin just purchased Elgato Wave XLR PRO Mount"
-    },
-    {
-      "text": "Nahian just purchased Elgato Facecam PRO Privacy Cover"
-    },
-    {
-      "text": "Eri just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Nicholas just purchased Skadis/Uppspel Controller Holder"
-    },
-    {
-      "text": "Nicholas just purchased Skadis/Uppspel XBOX Elite Charging Mount"
-    }
-  ]
+  "orders": []
 }
