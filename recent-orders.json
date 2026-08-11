@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Ian just purchased Stream Deck+ MAGNUS Mount"
-    },
-    {
-      "text": "Ryan just purchased Elgato Stream Deck XL Mount MAGNUS VERSION"
-    },
-    {
-      "text": "Manny just purchased Headphone Holder for Secretlab MAGNUS Desk | Headset Hook"
-    },
-    {
-      "text": "Ivan just purchased Elgato Facecam PRO Privacy Cover"
-    },
-    {
-      "text": "Ryan just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS with Headphone Hanger"
-    },
-    {
-      "text": "Jennifer just purchased Elgato Facecam MK.2 Privacy Cover"
-    },
-    {
-      "text": "Zachary just purchased ASTRO A50 Gen 4 Headband Fix"
-    },
-    {
-      "text": "John just purchased Arctis Pro Wireless NOVA and ELITE Secretlab MAGNUS Version"
-    },
-    {
-      "text": "Chris just purchased Elgato HD60S/S+ Mount"
-    },
-    {
-      "text": "Chris just purchased Elgato Facecam MK.2 Privacy Cover"
-    }
-  ]
+  "orders": []
 }
