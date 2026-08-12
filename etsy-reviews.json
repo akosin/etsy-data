@@ -2,57 +2,15 @@
   "reviews": [
     {
       "name": "Etsy Customer",
-      "product": "Stream Deck XL Mount",
+      "product": "Arctis Pro Nova/GameDAC Gen 2 Mount",
       "rating": 5,
-      "text": "Looks good bro, thanks! :)"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Came perfect exactly as described!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato PROMPTER Privacy Cover",
-      "rating": 5,
-      "text": "Wonderful item you made here."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Excellent communication, fast shipping. A++ Seller!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "This is perfect came better than I expected. Super high quality items."
+      "text": "The color is perfect. My nova pro wired"
     },
     {
       "name": "Etsy Customer",
       "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
       "rating": 5,
-      "text": "Excellent communication, fast shipping. A++ Seller!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 5,
-      "text": "really cool item. perfect fit. I don't have a Magnus desk so I bought a thin metal plate attached it with two side tape to underside of wood standing desk top and now it has that to magnetize to."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 5,
-      "text": "This product is perfect for keeping your desk setup minimalistic and clean. 5/5"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Key Light Air Grid Cover",
-      "rating": 5,
-      "text": "great product - fits perfectly!"
+      "text": "Great customer service. Had a question and received an answer quickly. Product is as described and the hub fits perfectly"
     },
     {
       "name": "Etsy Customer",
@@ -63,50 +21,8 @@
     {
       "name": "Etsy Customer",
       "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
-      "rating": 4,
-      "text": "My only complaint is the magnets could be a bit stronger to keep from sliding if bumped, otherwise it’s great."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO MAGNUS Mount",
       "rating": 5,
-      "text": "Item is as expected I seen this on YouTube first and wrote on there I couldn’t find it , and the seller directed me to his shop. Would definitely buy from him again ."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Key Light Grid Cover",
-      "rating": 5,
-      "text": "Fits exactly, attaches easily, directs like just like you would expect!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "MagSafe Phone Magic Arm/Tripod (1/4\"-20) M...",
-      "rating": 5,
-      "text": "works as intended. great print quality"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO Mount",
-      "rating": 5,
-      "text": "As described, high quality 3d print!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Stream Deck Mini Mount",
-      "rating": 5,
-      "text": "amazing quality and fast shipping. definably recommend this item."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Ikea Skadis/Uppspel Headphone Holder",
-      "rating": 5,
-      "text": "Arrived quickly and as described."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Wave XLR PRO Mount",
-      "rating": 5,
-      "text": "this thing is a dream!"
+      "text": "Excellent communication, fast shipping. A++ Seller!"
     },
     {
       "name": "Etsy Customer",
@@ -116,9 +32,93 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Arctis Pro Nova/GameDAC Gen 2 Mount",
+      "product": "Elgato PROMPTER Privacy Cover",
       "rating": 5,
-      "text": "The color is perfect. My nova pro wired"
+      "text": "Wonderful item you made here."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Stream Deck Mk.2 MAGNUS Mount",
+      "rating": 5,
+      "text": "This product helped me de-clutter my desk. The magnet is strong without being overbearing."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 4,
+      "text": "Great build. The screws that come with are great, but will get the job down if you drill pilot holes if attaching to wood. I would ask for an improvement to be made by printing a version that has the thread port on the bottom exposed to allow for attachments but primarily a way to have a little 3d printed \"locking\" screw that would prevent the unit from being pulled out when unplugging headphones or such."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 5,
+      "text": "As described, high quality 3d print!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 5,
+      "text": "Fits perfectly and designed well"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "rating": 5,
+      "text": "As described and fit like a glove! Definitely recommend."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "rating": 5,
+      "text": "really cool item. perfect fit. I don't have a Magnus desk so I bought a thin metal plate attached it with two side tape to underside of wood standing desk top and now it has that to magnetize to."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Skadis/Uppspel Controller Holder",
+      "rating": 5,
+      "text": "Arrived quickly and as described."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "rating": 5,
+      "text": "S’adapte parfaitement au hub du casque et s’intègre élégamment au bureau 👍🏻👾🎮"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Wave XLR PRO Mount",
+      "rating": 5,
+      "text": "Fantastic, great support.  I have ordered several different things from this person."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Arctis Pro Wireless NOVA and ELITE Secretl...",
+      "rating": 5,
+      "text": "This product is perfect for keeping your desk setup minimalistic and clean. 5/5"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "great product, highly recommended seller"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Came perfect exactly as described!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "MagSafe Phone Magic Arm/Tripod (1/4\"-20) M...",
+      "rating": 5,
+      "text": "works as intended. great print quality"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Item is as expected I seen this on YouTube first and wrote on there I couldn’t find it , and the seller directed me to his shop. Would definitely buy from him again ."
     }
   ]
 }
