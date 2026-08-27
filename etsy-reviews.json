@@ -2,93 +2,33 @@
   "reviews": [
     {
       "name": "Etsy Customer",
-      "product": "this item",
+      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
+      "rating": 5,
+      "text": "great product"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for SteelSeries Arctis No...",
       "rating": 4,
-      "text": "My only complaint is the magnets could be a bit stronger to keep from sliding if bumped, otherwise it’s great."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Mount for Elgato Stream Deck Mini",
-      "rating": 5,
-      "text": "amazing quality and fast shipping. definably recommend this item."
+      "text": "This is a great item."
     },
     {
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "Great product that was as described"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
-      "rating": 5,
-      "text": "this thing is a dream!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Battery Holder for SteelSeries...",
-      "rating": 5,
-      "text": "Shipped quick and arrived within expected shipping time. Product is great! The batteries fit smoothly inside it and stick out a bit so they can easily be grabbed and pulled out. I have it stuck underneath a shelf on my nearby bookshelf. And its perfect!\nI highly recommend, about to buy another so I can keep track of more batteries of the same type. I chose the pink one, and its lovely!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Grid Cover for Elgato Key Light",
-      "rating": 5,
-      "text": "Fantastic and perfectly simple connection to the light. Does exactly what it's designed for. I'm glad I went with a larger depth model. Perfect for my small space."
+      "text": "Great customer service. Had a question and received an answer quickly. Product is as described and the hub fits perfectly"
     },
     {
       "name": "Etsy Customer",
       "product": "Under-Desk Mount for Elgato Wave XLR",
       "rating": 5,
-      "text": "Incredible job my friend . Thankyou works perfectly"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Grid Cover for Elgato Key Light",
-      "rating": 5,
-      "text": "Thank you for an excellent product. I have been struggling with the lighting for my Zoom calls, and this grid has greatly helped solve the problem."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Headphone Holder for IKEA SKÅDIS / UPPSPEL...",
-      "rating": 5,
-      "text": "Good stuff you wont be disappointed"
+      "text": "As with every item from this shop really high quality and great design!"
     },
     {
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "S’adapte parfaitement au hub du casque et s’intègre élégamment au bureau 👍🏻👾🎮"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Works perfectly on my desk, strong magnets"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
-      "rating": 5,
-      "text": "Fits perfectly and designed well"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Battery Holder for SteelSeries...",
-      "rating": 5,
-      "text": "Came perfect exactly as described!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Elgato Facecam Pro Privacy Cover",
-      "rating": 5,
-      "text": "⭐⭐⭐⭐⭐ **10/10 – Perfect Fit & Clean Look**\n\nGreat privacy cover for the Elgato Facecam Pro. It fits perfectly, feels well made, and gives me peace of mind when I’m not using the camera. It also looks clean and doesn’t take away from the premium look of the Facecam Pro. Simple product, but it does exactly what it’s supposed to do. Definitely recommend!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Controller Holder for IKEA SKÅDIS / UPPSPE...",
-      "rating": 5,
-      "text": "Arrived quickly and as described."
+      "text": "As described and fit like a glove! Definitely recommend."
     },
     {
       "name": "Etsy Customer",
@@ -100,7 +40,61 @@
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "Exactly as described, great accessory for making my desk even more clean and streamlined"
+      "text": "Very high quality 3d print"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Battery Holder for SteelSeries...",
+      "rating": 5,
+      "text": "This review is for the second purchase i made of this item for myself! I said i would buy it again in my first review and I have! Same product quality, shipping quality and customer service quality of High! I am continualy happy with this product. It holds my spare arctis nova pro omni batteries well :D"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
+      "rating": 5,
+      "text": "this thing is a dream!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
+      "rating": 5,
+      "text": "Fantastic, great support.  I have ordered several different things from this person."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for Elgato Stream Deck Mini",
+      "rating": 5,
+      "text": "amazing quality and fast shipping. definably recommend this item."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Fantastic and perfectly simple connection to the light. Does exactly what it's designed for. I'm glad I went with a larger depth model. Perfect for my small space."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Excellent communication, fast shipping. A++ Seller!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Arrived quickly and as described."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
+      "rating": 5,
+      "text": "This product helped me de-clutter my desk. The magnet is strong without being overbearing."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for Elgato Wave XLR",
+      "rating": 5,
+      "text": "Incredible job my friend . Thankyou works perfectly"
     },
     {
       "name": "Etsy Customer",
@@ -110,15 +104,21 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Grid Cover for Elgato Key Light Air",
+      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
       "rating": 5,
-      "text": "great product - fits perfectly!"
+      "text": "As described. Looks great on my desk shelf"
     },
     {
       "name": "Etsy Customer",
-      "product": "LAST ONE Stream Deck Mk.2 Wood Face Plate",
+      "product": "Arctis Pro Nova/GameDAC Gen 2 Mount",
       "rating": 5,
-      "text": "Fit and finish was excellent - looks great on the stream deck"
+      "text": "The color is perfect. My nova pro wired"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Facecam 4K Privacy Cover",
+      "rating": 5,
+      "text": "great product, highly recommended seller"
     }
   ]
 }
