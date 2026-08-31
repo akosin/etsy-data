@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Arturo just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Turner just purchased Secretlab MAGNUS Mount for SteelSeries Arctis Nova Pro / Elite / Omni"
-    },
-    {
-      "text": "Deven just purchased Secretlab MAGNUS Mount for Anker 525 Charging Station"
-    },
-    {
-      "text": "Mr just purchased Grid Cover for Elgato Key Light"
-    },
-    {
-      "text": "Steven just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "James just purchased Aluminum Extrusion Mount for Elgato Wave XLR"
-    },
-    {
-      "text": "Melissa just purchased Secretlab MAGNUS Mount for Elgato Stream Deck Neo"
-    },
-    {
-      "text": "Michael just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Kevin just purchased Under-Desk Battery Holder for SteelSeries Arctis Nova Pro Wireless"
-    },
-    {
-      "text": "Mohammed just purchased Secretlab MAGNUS Mount for Elgato Stream Deck Mk.2"
-    }
-  ]
+  "orders": []
 }
