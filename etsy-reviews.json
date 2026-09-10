@@ -2,78 +2,6 @@
   "reviews": [
     {
       "name": "Etsy Customer",
-      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
-      "rating": 5,
-      "text": "Works perfectly on my desk, strong magnets"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Grid Cover for Elgato Key Light Air",
-      "rating": 5,
-      "text": "Perfect! Just what I needed. Snap into position and done!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Very good quality print, holds the camera very securely and there is no light leakage anywhere. A huge upgrade for the Prompter XL."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Grid Cover for Elgato Key Light Air",
-      "rating": 5,
-      "text": "great product - fits perfectly!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
-      "rating": 5,
-      "text": "Shipped quickly and item matches description perfectly."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
-      "rating": 5,
-      "text": "As described. Looks great on my desk shelf"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Arctis Pro Nova/GameDAC Gen 2 Mount",
-      "rating": 5,
-      "text": "The color is perfect. My nova pro wired"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Battery Holder for SteelSeries...",
-      "rating": 5,
-      "text": "This review is for the second purchase i made of this item for myself! I said i would buy it again in my first review and I have! Same product quality, shipping quality and customer service quality of High! I am continualy happy with this product. It holds my spare arctis nova pro omni batteries well :D"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "great product"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "Excellent communication, fast shipping. A++ Seller!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Mount for Elgato Wave XLR",
-      "rating": 5,
-      "text": "Fit WaveXLR perfectly! Love it (:"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
-      "rating": 5,
-      "text": "As described and fit like a glove! Definitely recommend."
-    },
-    {
-      "name": "Etsy Customer",
       "product": "Under-Desk Mount for Elgato Stream Deck +",
       "rating": 5,
       "text": "This is perfect came better than I expected. Super high quality items."
@@ -82,31 +10,7 @@
       "name": "Etsy Customer",
       "product": "this item",
       "rating": 5,
-      "text": "does exactly what it says and fits perfectly on my secretlab desk"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Mount for Elgato Wave XLR",
-      "rating": 5,
-      "text": "As with every item from this shop really high quality and great design!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "this item",
-      "rating": 5,
-      "text": "awesome product fast delivery"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Battery Holder for SteelSeries...",
-      "rating": 5,
-      "text": "Excellent build quality and finish. Not one of the dinky 3D prints. Feels like I could stand on the dang thing."
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
-      "rating": 5,
-      "text": "Excellent communication, fast shipping. A++ Seller!"
+      "text": "Fit WaveXLR perfectly! Love it (:"
     },
     {
       "name": "Etsy Customer",
@@ -116,9 +20,105 @@
     },
     {
       "name": "Etsy Customer",
+      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
+      "rating": 5,
+      "text": "really cool item. perfect fit. I don't have a Magnus desk so I bought a thin metal plate attached it with two side tape to underside of wood standing desk top and now it has that to magnetize to."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Grid Cover for Elgato Key Light Air",
+      "rating": 5,
+      "text": "Great product that fit perfectly"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
+      "rating": 5,
+      "text": "Great product that was as described"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Prompter XL Camera Plate for Faceca...",
+      "rating": 5,
+      "text": "Very good quality print, holds the camera very securely and there is no light leakage anywhere. A huge upgrade for the Prompter XL."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
+      "rating": 5,
+      "text": "S’adapte parfaitement au hub du casque et s’intègre élégamment au bureau 👍🏻👾🎮"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for Elgato Stream Deck Mini",
+      "rating": 5,
+      "text": "amazing quality and fast shipping. definably recommend this item."
+    },
+    {
+      "name": "Etsy Customer",
       "product": "Under-Desk Mount for Elgato Wave XLR Pro",
       "rating": 5,
-      "text": "Exactly what I needed and good quality."
+      "text": "Item holds the Wave XLR Pro great! Heat warped my item in transit and the seller took care of it. Awesome support!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Grid Cover for Elgato Key Light Air",
+      "rating": 5,
+      "text": "great product - fits perfectly!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
+      "rating": 5,
+      "text": "this thing is a dream!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "Excellent build quality and finish. Not one of the dinky 3D prints. Feels like I could stand on the dang thing."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "this item",
+      "rating": 5,
+      "text": "As described. Looks great on my desk shelf"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Secretlab MAGNUS Mount for Elgato HD60 X /...",
+      "rating": 5,
+      "text": "Excellent communication, fast shipping. A++ Seller!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Grid Cover for Elgato Key Light Air",
+      "rating": 5,
+      "text": "Perfect! Just what I needed. Snap into position and done!"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Grid Cover for Elgato Key Light",
+      "rating": 5,
+      "text": "These are perfect! I ordered 2 in the thicker option and it was exactly what I was needing. They fit perfect and are easy to install."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Grid Cover for Elgato Key Light",
+      "rating": 5,
+      "text": "Very high quality 3d print"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
+      "rating": 5,
+      "text": "As described and fit like a glove! Definitely recommend."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
+      "rating": 4,
+      "text": "Great build. The screws that come with are great, but will get the job down if you drill pilot holes if attaching to wood. I would ask for an improvement to be made by printing a version that has the thread port on the bottom exposed to allow for attachments but primarily a way to have a little 3d printed \"locking\" screw that would prevent the unit from being pulled out when unplugging headphones or such."
     }
   ]
 }
