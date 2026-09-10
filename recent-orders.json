@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Mario just purchased Elgato Prompter Camera Plates"
-    },
-    {
-      "text": "Ralphie just purchased Under-Desk Mount for Elgato Wave XLR Pro"
-    },
-    {
-      "text": "Alex just purchased Secretlab MAGNUS Mount for Elgato Stream Deck Mk.2"
-    },
-    {
-      "text": "Marcel just purchased Secretlab MAGNUS Mount + Headphone Hanger for SteelSeries Arctis Nova Pro / Elite / Omni"
-    },
-    {
-      "text": "Alfonso just purchased Secretlab MAGNUS Mount for SteelSeries Arctis Nova Pro / Elite / Omni"
-    },
-    {
-      "text": "Eric just purchased Keyboard Holder for IKEA SKÅDIS / UPPSPEL Pegboards"
-    },
-    {
-      "text": "Matt just purchased Secretlab MAGNUS Mount for Elgato Stream Deck +"
-    },
-    {
-      "text": "Ethan just purchased Secretlab MAGNUS Mount for SteelSeries Arctis Nova Pro / Elite / Omni"
-    },
-    {
-      "text": "Yasser just purchased Grid Cover for Elgato Key Light"
-    },
-    {
-      "text": "Mohammed just purchased Secretlab MAGNUS Mount for Elgato Wave XLR Pro"
-    }
-  ]
+  "orders": []
 }
