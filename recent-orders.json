@@ -1,34 +1,3 @@
 {
-  "orders": [
-    {
-      "text": "Kenneth just purchased Secretlab MAGNUS Mount for SteelSeries Arctis Nova Pro / Elite / Omni"
-    },
-    {
-      "text": "Ruby just purchased Mount for Elgato HD60 X / 4K X / 4K S"
-    },
-    {
-      "text": "Danielle just purchased Grid Cover for Elgato Key Light"
-    },
-    {
-      "text": "Basile just purchased Under-Desk Mount for Elgato Wave XLR Pro"
-    },
-    {
-      "text": "Jamie just purchased Under-Desk Mount for Elgato Wave XLR Pro"
-    },
-    {
-      "text": "Kim just purchased Aluminum Extrusion Mount for Elgato Wave XLR"
-    },
-    {
-      "text": "Michelle just purchased Elgato Facecam Pro Privacy Cover"
-    },
-    {
-      "text": "Paul just purchased Under-Desk Mount for Elgato Wave XLR Pro"
-    },
-    {
-      "text": "James just purchased Grid Cover for Elgato Key Light"
-    },
-    {
-      "text": "Chris just purchased Under-Desk Mount for Elgato Wave XLR Pro"
-    }
-  ]
+  "orders": []
 }
