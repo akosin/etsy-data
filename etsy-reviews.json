@@ -2,9 +2,9 @@
   "reviews": [
     {
       "name": "Etsy Customer",
-      "product": "Under-Desk Mount for Elgato Wave XLR",
+      "product": "Grid Cover for Elgato Key Light Air",
       "rating": 5,
-      "text": "Fit WaveXLR perfectly! Love it (:"
+      "text": "Great product that fit perfectly"
     },
     {
       "name": "Etsy Customer",
@@ -16,19 +16,7 @@
       "name": "Etsy Customer",
       "product": "Grid Cover for Elgato Key Light",
       "rating": 5,
-      "text": "Very high quality 3d print"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
-      "rating": 5,
-      "text": "Item holds the Wave XLR Pro great! Heat warped my item in transit and the seller took care of it. Awesome support!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "1/4\"-20 Mount for Elgato Stream Deck Mk.2",
-      "rating": 5,
-      "text": "Product as described. Some minor instructions would be helpful for installation, but it was easy enough to figure out"
+      "text": "The fit on this honeycomb grid was perfect—it looks like it came with the light. I like how it keeps my face well lit while stopping the light from spilling onto my background. Now my colored lights and star projector stand out more instead of getting washed out. Small upgrade, noticeable difference in my setup."
     },
     {
       "name": "Etsy Customer",
@@ -38,33 +26,39 @@
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Prompter Camera Plates",
+      "product": "Under-Desk Mount for Elgato Wave XLR Pro",
       "rating": 5,
-      "text": "This product works great, it cover the light the brio display and fit very snug into the elgato prompter. This is a must have for Logitech brio webcam and the elgato prompter!"
+      "text": "Item holds the Wave XLR Pro great! Heat warped my item in transit and the seller took care of it. Awesome support!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Facecam Pro Privacy Cover",
+      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
       "rating": 5,
-      "text": "I love it since it's a perfect fit for my webcam I love it"
+      "text": "Amazing product! I have already gotten so many compliments regarding how clean my set up is. A must have if you own a SecretLab Magnus desk and a Stream Deck!"
     },
     {
       "name": "Etsy Customer",
-      "product": "Controller Holder for IKEA SKÅDIS / UPPSPE...",
+      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
       "rating": 5,
-      "text": "The Item fit perfectly, and was exactly what I needed. Definitely worth the purchase, and will buy again."
+      "text": "does exactly what it says and fits perfectly on my secretlab desk"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Prompter XL Camera Plate for Faceca...",
+      "product": "Grid Cover for Elgato Key Light",
       "rating": 5,
-      "text": "Good quality and perfect fit."
+      "text": "Very high quality 3d print"
     },
     {
       "name": "Etsy Customer",
-      "product": "Elgato Facecam Pro Privacy Cover",
+      "product": "this item",
       "rating": 5,
-      "text": "⭐⭐⭐⭐⭐ **10/10 – Perfect Fit & Clean Look**\n\nGreat privacy cover for the Elgato Facecam Pro. It fits perfectly, feels well made, and gives me peace of mind when I’m not using the camera. It also looks clean and doesn’t take away from the premium look of the Facecam Pro. Simple product, but it does exactly what it’s supposed to do. Definitely recommend!"
+      "text": "works great, helped me save desk space"
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Grid Cover for Elgato Key Light",
+      "rating": 5,
+      "text": "Great product! elgato is missing out not making these for their products!"
     },
     {
       "name": "Etsy Customer",
@@ -76,37 +70,31 @@
       "name": "Etsy Customer",
       "product": "Grid Cover for Elgato Key Light",
       "rating": 5,
-      "text": "Great product! elgato is missing out not making these for their products!"
-    },
-    {
-      "name": "Etsy Customer",
-      "product": "Grid Cover for Elgato Key Light",
-      "rating": 5,
       "text": "Fantastic and perfectly simple connection to the light. Does exactly what it's designed for. I'm glad I went with a larger depth model. Perfect for my small space."
     },
     {
       "name": "Etsy Customer",
-      "product": "Under-Desk Battery Holder for SteelSeries...",
+      "product": "Elgato Facecam Pro Privacy Cover",
       "rating": 5,
-      "text": "Excellent build quality and finish. Not one of the dinky 3D prints. Feels like I could stand on the dang thing."
+      "text": "Fast shipping and good quality."
     },
     {
       "name": "Etsy Customer",
-      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
+      "product": "Secretlab MAGNUS Mount for SteelSeries Arc...",
       "rating": 5,
-      "text": "great product"
+      "text": "Exactly as described, great accessory for making my desk even more clean and streamlined"
     },
     {
       "name": "Etsy Customer",
-      "product": "Under-Desk Mount for SteelSeries Arctis No...",
+      "product": "Elgato Prompter Privacy Cover",
       "rating": 5,
-      "text": "Parfait encore un grand merci !"
+      "text": "Great item, perfect fit on the prompter."
     },
     {
       "name": "Etsy Customer",
-      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
+      "product": "Controller Holder for IKEA SKÅDIS / UPPSPE...",
       "rating": 5,
-      "text": "Great product that was as described"
+      "text": "The Item fit perfectly, and was exactly what I needed. Definitely worth the purchase, and will buy again."
     },
     {
       "name": "Etsy Customer",
@@ -116,9 +104,21 @@
     },
     {
       "name": "Etsy Customer",
+      "product": "Secretlab MAGNUS Mount for Elgato Stream D...",
+      "rating": 5,
+      "text": "It works perfectly on my desk, and frees up so much space. I'm shocked that Elgato or Secretlab hasn't made something similar, but I'm glad this shop has!"
+    },
+    {
+      "name": "Etsy Customer",
       "product": "Microsoft LifeCam HD-3000 Privacy Cover",
       "rating": 5,
       "text": "It fits my camera very well."
+    },
+    {
+      "name": "Etsy Customer",
+      "product": "Elgato Facecam Pro Privacy Cover",
+      "rating": 5,
+      "text": "⭐⭐⭐⭐⭐ **10/10 – Perfect Fit & Clean Look**\n\nGreat privacy cover for the Elgato Facecam Pro. It fits perfectly, feels well made, and gives me peace of mind when I’m not using the camera. It also looks clean and doesn’t take away from the premium look of the Facecam Pro. Simple product, but it does exactly what it’s supposed to do. Definitely recommend!"
     }
   ]
 }
